@@ -15,11 +15,9 @@
   padding: 10px 20px;
   font-size: medium;
   border: none;
-}
-
-.search_input > input :focus {
   outline-width: 0;
 }
+
 
 .search_buttons {
   margin-top: 15px;
